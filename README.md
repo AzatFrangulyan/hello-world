@@ -1,2 +1,5 @@
 # hello-world
-This is hello-world repository.
+
+Hi Humans!
+
+I like Java and Android.
